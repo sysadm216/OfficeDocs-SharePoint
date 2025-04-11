@@ -80,7 +80,7 @@ Prepare a configuration Json file with the following content:
     "Thumbprint":"The client credential certificate thumbprint",
     "TenantId":"Tenant ID",
     "ClientId":"App registration Id",
-    "AdminUrl": "The SharePoint Admin site URL, example https://contoso-admin.sharepoint.com",
+    "AdminUrl": "The SharePoint Admin site URL, example https://contoso-admin.sharepoint.com"
 }
 ```
 
